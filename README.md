@@ -1,3 +1,4 @@
+Hi am Kara
 # 💫 About Me:
 I'm working on Machine Learning & AI projects in Health and Finance sector
 
