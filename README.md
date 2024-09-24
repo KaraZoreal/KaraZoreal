@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi am Kara<br># 💫 About Me:<br>I am an expert in Machine Learning and Deep Learning and I'm conversant with improving existing solutions or building the entire ML pipeline from the start. I have also dealt with a variety of tasks, including NLP, Time Series Analysis, Computer Vision, GANs, constructing bots for the stock or cryptocurrency markets, establishing APIs for ML models, etc.
+Hi am Kara<br># 💫 About Me:<br>I am an expert in Machine Learning and Deep Learning and I'm conversant with improving existing solutions or building the entire ML pipeline from the start. I have also dealt with a variety of tasks, including NLP, Time Series Analysis, Computer Vision, GANs, constructing bots for the stock or cryptocurrency markets, establishing APIs for ML models, etc
 
 
 ## 🌐 Socials:
